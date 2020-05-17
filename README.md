@@ -4,6 +4,9 @@ Kafka Eagle used to monitor the Kafka cluster in the case of Topic being consume
 
 So, start reading from the [catalog](https://docs.kafka-eagle.org/)!
 
+### Notice, New Kafka Eagle Documentation:
+[http://www.kafka-eagle.org/articles/docs/documentation.html](http://www.kafka-eagle.org/articles/docs/documentation.html)
+
 # Contact:
 * Blog : http://www.cnblogs.com/smartloli/
 * Gmail: [smartloli.org@gmail.com](mailto:smartloli.org@gmail.com)
